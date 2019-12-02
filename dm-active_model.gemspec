@@ -59,7 +59,6 @@ Gem::Specification.new do |s|
       s.add_development_dependency(%q<rspec>, ["~> 1.3.2"])
       s.add_development_dependency(%q<test-unit>, ["= 1.2.3"])
       s.add_development_dependency(%q<dm-validations>, [">= 1.2.0", "~> 1.2"])
-      s.add_development_dependency(%q<jeweler>, ["~> 1.6.4"])
       s.add_development_dependency(%q<rake>, ["~> 0.9.2"])
       s.add_development_dependency(%q<rspec>, ["~> 1.3.2"])
       s.add_development_dependency(%q<test-unit>, ["= 1.2.3"])
