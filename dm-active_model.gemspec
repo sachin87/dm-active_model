@@ -74,7 +74,6 @@ Gem::Specification.new do |s|
       s.add_dependency(%q<test-unit>, ["= 1.2.3"])
     end
   else
-    s.add_dependency(%q<dm-active_model>, [">= 0"])
     s.add_dependency(%q<dm-core>, [">= 1.2.0", "~> 1.2"])
     s.add_dependency(%q<activemodel>, ["< 5.0", ">= 3.0"])
     s.add_dependency(%q<jeweler>, ["~> 1.6.4"])
